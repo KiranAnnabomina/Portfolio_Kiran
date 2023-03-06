@@ -15,6 +15,24 @@ ul {
     padding: 0;
 }
 
+a, a:hover {
+    text-decoration: none;
+}
+
+/* COMMON */
+
+.p-flex {
+    display: flex;
+}
+
+.p-flex-align-center {
+    align-items: center;
+}
+
+.p-flex-jc-sb {
+    justify-content: space-between;
+}
+
 /* WRAPPER CLASS */
 
 .p-wrapper {
